@@ -1,7 +1,6 @@
 "use client";
 
 import { cn } from "@/utils/cn";
-import Image from "next/image";
 import React, {
   createContext,
   useState,
@@ -117,7 +116,7 @@ export const CardItem = ({
   rotateY?: number | string;
   rotateZ?: number | string;
   [key: string]: any;
-}) => {
+   }) => {
   const ref = useRef<HTMLDivElement>(null);
   const [isMouseEntered] = useMouseEnter();
 

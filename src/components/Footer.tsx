@@ -1,4 +1,4 @@
-import { footer } from "framer-motion/client"
+
 
 function Footer() {
   return (
