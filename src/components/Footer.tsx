@@ -25,7 +25,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="#"
+                href="https://github.com/JayPanchal-15092005"
                 className="hover:text-white transition-colors duration-300"
               >
                 About
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="#"
+                href="./courses"
                 className="hover:text-white transition-colors duration-300"
               >
                 Courses
@@ -41,7 +41,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="#"
+                href="./contact"
                 className="hover:text-white transition-colors duration-300"
               >
                 Contact
@@ -65,7 +65,7 @@ function Footer() {
               Twitter
             </a>
             <a
-              href="#"
+              href="https://www.instagram.com/__jay_panchal/"
               className="hover:text-white transition-colors duration-300"
             >
               Instagram
@@ -74,13 +74,12 @@ function Footer() {
         </div>
         <div>
           <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
-          <p>New Delhi, India</p>
-          <p>Delhi 10001</p>
-          <p>Email: info@musicschool.com</p>
-          <p>Phone: (123) 456-7890</p>
+          <p>Ahmedabad, India</p>
+          <p>Email: jayp93393@gmail.com</p>
+          <p>Phone: +91 8347039945</p>
         </div>
         </div>
-        <p className="text-center text-xs pt-8">© 2024 Music School. All rights reserved.</p>
+        <p className="text-center text-xs pt-8">© 2025 Music School. All rights reserved.</p>
     </footer>
    )
 }
