@@ -30,7 +30,7 @@ function Footer() {
               >
                 About
               </a>
-            </li>
+            </li> 
             <li>
               <a
                 href="./courses"
